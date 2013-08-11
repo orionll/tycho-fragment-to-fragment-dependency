@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Extension
+Bundle-SymbolicName: swt.extension
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.eclipse.swt;bundle-version="3.102.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
